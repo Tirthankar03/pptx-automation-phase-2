@@ -1,0 +1,10 @@
+pandas
+numpy
+python-pptx
+openpyxl
+lxml
+Pillow
+requests
+pip-system-certs
+fastapi
+uvicorn
