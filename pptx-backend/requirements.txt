@@ -8,3 +8,5 @@ requests
 pip-system-certs
 fastapi
 uvicorn
+python-multipart
+python-dotenv
