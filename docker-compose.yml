@@ -5,7 +5,7 @@ services:
     build: ./pptx-frontend-main
     container_name: pptx-frontend
     ports:
-      - "5173:80"
+      - "8081:80"
     networks:
       - app_net
 
